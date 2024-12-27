@@ -36,5 +36,5 @@ Special thanks to ankit for providing me with free daughterboards to use with th
 ![astra-5](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-5.jpg)
 ![astra-6](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-6.jpg)
 ![astra-6](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-7.jpg)
-![plates](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/plates.png)
+![plates](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/plates-2.png)
 ![section](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/section%20analysis.png)
