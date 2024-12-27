@@ -26,3 +26,15 @@ Special thanks to ankit for providing me with free daughterboards to use with th
 | Weight screw M3x6mm counters sink | https://www.mcmaster.com/products/screws/flat-head-screws~/thread-size~m3/length~6-mm/  |
 | Toblerone screw M2.5x6mm | https://www.mcmaster.com/products/screws/flat-head-screws~/length~6-mm/thread-size~m2-5/  |
 | Daughterboard screw M3x4mm ultra low profile | https://www.mcmaster.com/products/screws/socket-head-screws~/thread-size~m3/length~4-mm/socket-head-profile~ultra-low/  |
+
+***
+
+![astra-1](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-1.jpg)
+![astra-2](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-2.jpg)
+![astra-3](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-3.jpg)
+![astra-4](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-4.jpg)
+![astra-5](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-5.jpg)
+![astra-6](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-6.jpg)
+![astra-6](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/astra%20tkl-7.jpg)
+![plates](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/plates.png)
+![section](https://github.com/fnzzykbd/Astra-TKL/blob/main/images/section%20analysis.png)
