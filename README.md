@@ -24,7 +24,7 @@ Special thanks to ankit for providing me with free daughterboards to use with th
 | Case screw M3x10mm low profile  | https://www.mcmaster.com/products/screws/socket-head-screws~/thread-size~m3/length~10-mm/  |
 | Plate screw M2.5x5mm | https://www.mcmaster.com/products/screws/socket-head-screws~/thread-size~m3/length~5-mm/  |
 | Weight screw M3x6mm counters sink | https://www.mcmaster.com/products/screws/flat-head-screws~/thread-size~m3/length~6-mm/  |
-| Toblerone screw M2.5x6mm | https://www.mcmaster.com/products/screws/flat-head-screws~/length~6-mm/thread-size~m2-5/  |
+| Toblerone screw M2.5x6mm counter sink | https://www.mcmaster.com/products/screws/flat-head-screws~/length~6-mm/thread-size~m2-5/  |
 | Daughterboard screw M3x4mm ultra low profile | https://www.mcmaster.com/products/screws/socket-head-screws~/thread-size~m3/length~4-mm/socket-head-profile~ultra-low/  |
 | Bumpons | SJ5302, Bumpon hole is 8.3mm to fit my Unikorn style bumpons I got off aliexpress, which I measured. You might see some gaps around a 3M 8mm Bumpon |
 
